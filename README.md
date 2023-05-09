@@ -13,7 +13,7 @@
         Hey there!
         <br>
         <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Padala+Bala+Siva+Sai+Megi+Reddy+Padala;A+FullStack+Developer;An+AIML+Engineer;;An+Enthusiastic+LearnerA+Problem+Solver">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9644F4&size=40&center=true&vCenter=true&width=550&height=70&lines=I'm+Padala;Bala+Siva+Sai+Megi+Reddy;A+FullStack+Developer;An+AIML+Engineer;An+Enthusiastic+Learner;+A+Problem+Solver">
 </p>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
