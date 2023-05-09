@@ -10,7 +10,7 @@
     </div>  
     <img src="https://komarev.com/ghpvc/?username=PadalaBalaSivaSaiMegiReddy&style=flat-square&color=blue" alt=""/>
     <h1>
-        hey there 
+        Hey there!
         <br>
         I'm Bala Siva Sai Megi Reddy Padala
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
