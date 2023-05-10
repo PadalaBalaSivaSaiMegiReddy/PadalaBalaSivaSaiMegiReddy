@@ -80,7 +80,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PadalaBalaSivaSaiMegiReddy&layout=compact)
 
-<br>
+---
+
 <h2>😄 Have Fun </h2>
 <br>
 <p align="center">
