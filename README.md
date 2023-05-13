@@ -45,6 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="icons_readme/c.svg" title="c" alt="c" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/cpp.svg" title="cpp" alt="cpp" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/git.svg" title="git" alt="git" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="icons_readme/php.svg" title="php" alt="php" width="50" height="50"  />&nbsp;&nbsp;
 </div>
 
 <div id="languages-dbs">
@@ -68,7 +69,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="icons_readme/react.svg" title="react" alt="react" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/nextjs.svg" title="nextjs" alt="next" width="50" height="50"  />&nbsp;&nbsp;
 </div>
-
 
 ---
 
