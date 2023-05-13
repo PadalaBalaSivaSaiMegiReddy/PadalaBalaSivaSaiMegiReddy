@@ -44,7 +44,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="icons_readme/python.svg" title="Python" alt="python" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/c.svg" title="c" alt="c" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/cpp.svg" title="cpp" alt="cpp" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/git.svg" title="git" alt="git" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/php.svg" title="php" alt="php" width="50" height="50"  />&nbsp;&nbsp;
 </div>
 
@@ -71,6 +70,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="icons_readme/nextjs.svg" title="nextjs" alt="next" width="50" height="50"  />&nbsp;&nbsp;
     
 </div>
+
+<!-- create a div for version control like above -->
+
+<div id="version-control">
+    <img src="icons_readme/git.svg" title="git" alt="git" width="50" height="50"  />&nbsp;&nbsp;
+    <img src="icons_readme/github.svg" title="github" alt="github" width="50" height="50"  />&nbsp;&nbsp;
+    <!-- <img src="icons_readme/gitlab.svg" title="gitlab" alt="gitlab" width="50" height="50"  />&nbsp;&nbsp; -->
 
 ---
 
