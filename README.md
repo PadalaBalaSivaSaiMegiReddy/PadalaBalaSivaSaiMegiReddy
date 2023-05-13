@@ -65,9 +65,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 <div id="frameworks">
+<img src="icons_readme/Bootstrap.svg" title="bootstrap" alt="bootstrap" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/tailwindcss.svg" title="tailwindcss" alt="tailwindcss" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/react.svg" title="react" alt="react" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/nextjs.svg" title="nextjs" alt="next" width="50" height="50"  />&nbsp;&nbsp;
+    
 </div>
 
 ---
