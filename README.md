@@ -80,12 +80,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PadalaBalaSivaSaiMegiReddy&layout=compact)
 
-<br>
+---
+
 <h2>😄 Have Fun </h2>
 <br>
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </p>
+
 ---
 
 Last Updated: 2023 May
