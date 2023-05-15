@@ -44,7 +44,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="icons_readme/python.svg" title="Python" alt="python" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/c.svg" title="c" alt="c" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/cpp.svg" title="cpp" alt="cpp" width="50" height="50"  />&nbsp;&nbsp;
-    <img src="icons_readme/php.svg" title="php" alt="php" width="50" height="50"  />&nbsp;&nbsp;
+    <!-- //create same for c# -->
+    <img src="icons_readme/csharp.svg" title="csharp" alt="csharp" width="50" height="50"  />&nbsp;&nbsp;
+
+   
 </div>
 
 <div id="languages-dbs">
@@ -61,6 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
     <img src="icons_readme/html5.svg" title="HTML5" alt="html5" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/css3.svg" title="CSS3" alt="CSS3" width="50" height="50"  />&nbsp;&nbsp;
     <img src="icons_readme/javascript.svg" title="javascript" alt="javascript" width="50" height="50"  />&nbsp;&nbsp;
+     <img src="icons_readme/php.svg" title="php" alt="php" width="50" height="50"  />&nbsp;&nbsp;
 </div>
 
 <div id="frameworks">
