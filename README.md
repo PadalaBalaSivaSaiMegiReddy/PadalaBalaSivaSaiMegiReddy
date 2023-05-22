@@ -94,6 +94,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+<h2 align='center'>Activity Graph 📉</h2>
+<a href="https://github.com/PadalaBalaSivaSaiMegiReddy/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PadalaBalaSivaSaiMegiReddy&theme=light&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+---
+
 <h2>😄 Have Fun </h2>
 <br>
 <p align="center">
