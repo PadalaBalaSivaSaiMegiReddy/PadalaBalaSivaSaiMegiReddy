@@ -29,7 +29,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: I’m a 3rd year student in India and contributing to frontend and backend for building web applications.
-- :zap: In my free time, I solve problems on [HackerRank](https://www.hackerrank.com/megireddy21?hr_r=1), [LeetCode](https://leetcode.com/bala_siva_sai_megi_reddy/) etc.
+- :zap: In my free time, I solve problems on [![Hacker Rank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/megireddy21?hr_r=1), [![Leet Code Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/bala_siva_sai_megi_reddy/) etc.
 - :computer: I love to code and solve problems.
 - :sparkles: I love to learn new things.
 - :rocket: I love to solve problems and build web applications.
